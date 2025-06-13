@@ -1,4 +1,3 @@
-# backend/models/azure/compliance_assess/app.py
 import os
 from flask import Flask, jsonify
 from flask_cors import CORS
